@@ -1,0 +1,1 @@
+验证英文 slug + GitHub Pages canonical 自动传递给 dev.to。
